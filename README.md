@@ -1,0 +1,2 @@
+# AminoScraper
+amino comIds scraping
